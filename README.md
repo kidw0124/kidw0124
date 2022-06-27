@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ## ❤️ GitHub Status
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kidw0124&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="dwoo's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidw0124&layout=compact&theme=buefy&hide_border=true&langs_count=10" alt="dwoo's language status"/> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kidw0124&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="kidw0124's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidw0124&layout=compact&theme=buefy&hide_border=true&langs_count=10" alt="kidw0124's language status"/> |
 | ------------- | ------------- |
 
 
