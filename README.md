@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## 🛠️ Skills
 ![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=C&color=A8B9CC)
 ![](https://img.shields.io/badge/Lang-C++-informational?style=flat&logo=Cplusplus&color=00599C)
-![](https://img.shields.io/badge/Lang-CSharp-informational?style=flat&logo=CSharp&color=239120)
+![](https://img.shields.io/badge/Lang-C%23-informational?style=flat&logo=CSharp&color=239120)
 ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&color=3776AB)
