@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <br>
 [![BOJ
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kidw0124)](https://icpc.me/kidw0124)
-<br>
 ![kidw0124 profile](http://mazandi.herokuapp.com/api?handle=kidw0124)
 
 ### Codeforces
