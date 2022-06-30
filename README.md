@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ## 😊 About Me
 ### Hi there 👋 I'm Kim Dongwoo.
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kidw0124)](https://solved.ac/kidw0124)
 <a href="https://codeforces.com/profile/kidw0124" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
@@ -28,6 +27,22 @@ Here are some ideas to get you started:
 <a href="https://sleepingsnorlax.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF9900?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="https://www.instagram.com/d._.w0o/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/kidw0124/" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<br>
+<br>
+## 📊 My PS and CP Raiting
+### BOJ and Solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kidw0124)](https://solved.ac/kidw0124)
+<br>
+[![BOJ
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kidw0124)](https://icpc.me/kidw0124)
+<br>
+![kidw0124 profile](http://mazandi.herokuapp.com/api?handle=kidw0124)
+
+### Codeforces
+<a href="https://codeforces.com/profile/kidw0124" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
+<br>
+[![CodeForces Profile](https://cf.leed.at?id=kidw0124)](https://codeforces.com/profile/kidw0124)
 <br>
 <br>
 ## 🛠️ Skills & Tools
@@ -62,7 +77,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 <br>
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717)
+[![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717)](https://github.com/kidw0124)
 ![](https://img.shields.io/badge/Tool-Slack-informational?style=flat&logo=Slack&color=4A154B)
 ![](https://img.shields.io/badge/Tool-Notion-informational?style=flat&logo=Notion&color=000000)
 ### Development System and IDE
@@ -86,15 +101,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Platform-AWS-informational?style=flat&logo=Amazon%20AWS&color=232F3E)
 ![](https://img.shields.io/badge/Platform-Google%20Cloud%20Platform-informational?style=flat&logo=Google%20Cloud&color=4285F4)
 <br>
-### My BOJ and Solved.ac
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kidw0124)](https://solved.ac/kidw0124)
 <br>
-[![BOJ
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kidw0124)](https://icpc.me/kidw0124)
-
-</br>
-
 ## ❤️ GitHub Status
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=kidw0124&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="kidw0124's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidw0124&layout=compact&theme=buefy&hide_border=true&langs_count=10" alt="kidw0124's language status"/> |
