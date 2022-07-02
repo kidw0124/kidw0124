@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 [![BOJ
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kidw0124)](https://icpc.me/kidw0124)
 [![kidw0124 profile](http://mazandi.herokuapp.com/api?handle=kidw0124)](https://solved.ac/kidw0124)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kidw0124&repo=PS&theme=dark)](https://github.com/kidw0124/PS)
 
 ### Codeforces
 <a href="https://codeforces.com/profile/kidw0124" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
@@ -105,6 +107,7 @@ Here are some ideas to get you started:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=kidw0124&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="kidw0124's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidw0124&layout=compact&theme=buefy&hide_border=true&langs_count=10" alt="kidw0124's language status"/> |
 | ------------- | ------------- |
+
 
 
 
