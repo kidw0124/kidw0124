@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 ## 😊 About Me
 ### Hi there 👋 I'm Kim Dongwoo.
+- SSHS 29
+- KU CYDF 20
+- BOB 11th
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kidw0124)](https://solved.ac/kidw0124)
 <a href="https://codeforces.com/profile/kidw0124" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
