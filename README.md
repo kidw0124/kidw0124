@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - SSHS 29
 - KU CYDF 20
 - BOB 11th
+- SW Maestro 14th
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kidw0124)](https://solved.ac/kidw0124)
