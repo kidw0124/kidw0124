@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="mailto:kidw0124@naver.com" target="_blank"><img src="https://img.shields.io/badge/kidw0124@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mailto:kidw0124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kidw0124@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br>
-<a href="https://sleepingsnorlax.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF9900?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="https://kidw0124.github.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF9900?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="https://www.instagram.com/d._.w0o/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/kidw0124/" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <br>
@@ -42,15 +42,17 @@ Here are some ideas to get you started:
 [![BOJ
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kidw0124)](https://icpc.me/kidw0124)
 [![kidw0124 profile](http://mazandi.herokuapp.com/api?handle=kidw0124)](https://solved.ac/kidw0124)
-<br>
+#### BOJ Code Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kidw0124&repo=PS&theme=dark)](https://github.com/kidw0124/PS)
 
 ### Codeforces
-<a href="https://codeforces.com/profile/kidw0124" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
-<br>
 [![CodeForces Profile](https://cf.leed.at?id=kidw0124)](https://codeforces.com/profile/kidw0124)
+
+### Atcoder
+[![Atcoder Profile](https://atcoder-badge.kro.kr?id=kidw0124)](https://atcoder.jp/users/kidw0124)
 <br>
 <br>
+
 ## 🛠️ Skills & Tools
 ### Languages
 ![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=C&color=A8B9CC)
