@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="mailto:kidw0124@naver.com" target="_blank"><img src="https://img.shields.io/badge/kidw0124@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mailto:kidw0124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kidw0124@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br>
-<a href="https://kidw0124.github.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF9900?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="https://kidw0124.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF9900?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="https://www.instagram.com/d._.w0o/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/kidw0124/" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <br>
